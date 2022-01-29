@@ -44,7 +44,7 @@ A implantação na Heroku pode ser feito de qualquer uma das 2 formas a seguir
 
 Clique no botão abaixo para implantar o aplicativo na sua conta na [Heroku](https://www.heroku.com/pricing) usando o plano gratuito
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mozgbrasil/heroku-magento)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ericnjeru/heroku-magento)
 
 Efetue o preenchimento dos campos relativo ao banco de dados, para o campo "MAGE_URL" altere em "APP_NAME" pelo nome do aplicativo
 
